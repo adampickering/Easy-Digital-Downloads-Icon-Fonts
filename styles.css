@@ -1,0 +1,163 @@
+@charset "UTF-8";
+
+@font-face {
+  font-family: "edd-icons";
+  src:url("fonts/edd-icons.eot");
+  src:url("fonts/edd-icons.eot?#iefix") format("embedded-opentype"),
+    url("fonts/edd-icons.woff") format("woff"),
+    url("fonts/edd-icons.ttf") format("truetype"),
+    url("fonts/edd-icons.svg#edd-icons") format("svg");
+  font-weight: normal;
+  font-style: normal;
+
+}
+
+[data-icon]:before {
+  font-family: "edd-icons" !important;
+  content: attr(data-icon);
+  font-style: normal !important;
+  font-weight: normal !important;
+  font-variant: normal !important;
+  text-transform: none !important;
+  speak: none;
+  line-height: 1;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+[class^="edd-icons-"]:before,
+[class*=" edd-icons-"]:before {
+  font-family: "edd-icons" !important;
+  font-style: normal !important;
+  font-weight: normal !important;
+  font-variant: normal !important;
+  text-transform: none !important;
+  speak: none;
+  line-height: 1;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+.edd-icons-padlock:before {
+  content: "a";
+}
+.edd-icons-padlock-1:before {
+  content: "b";
+}
+.edd-icons-edd-icons:before {
+  content: "c";
+}
+.edd-icons-edd-icons-1:before {
+  content: "d";
+}
+.edd-icons-edd-icons-2:before {
+  content: "e";
+}
+.edd-icons-edd-icons-3:before {
+  content: "f";
+}
+.edd-icons-payment-webfont:before {
+  content: "g";
+}
+.edd-icons-payment-webfont-1:before {
+  content: "h";
+}
+.edd-icons-payment-webfont-2:before {
+  content: "i";
+}
+.edd-icons-payment-webfont-3:before {
+  content: "j";
+}
+.edd-icons-payment-webfont-4:before {
+  content: "k";
+}
+.edd-icons-payment-webfont-5:before {
+  content: "l";
+}
+.edd-icons-payment-webfont-6:before {
+  content: "m";
+}
+.edd-icons-payment-webfont-7:before {
+  content: "n";
+}
+.edd-icons-payment-webfont-8:before {
+  content: "o";
+}
+.edd-icons-payment-webfont-9:before {
+  content: "p";
+}
+.edd-icons-payment-webfont-10:before {
+  content: "q";
+}
+.edd-icons-payment-webfont-11:before {
+  content: "r";
+}
+.edd-icons-payment-webfont-12:before {
+  content: "s";
+}
+.edd-icons-payment-webfont-13:before {
+  content: "t";
+}
+.edd-icons-payment-webfont-14:before {
+  content: "u";
+}
+.edd-icons-payment-webfont-15:before {
+  content: "v";
+}
+.edd-icons-payment-webfont-16:before {
+  content: "w";
+}
+.edd-icons-payment-webfont-17:before {
+  content: "x";
+}
+.edd-icons-payment-webfont-18:before {
+  content: "y";
+}
+.edd-icons-payment-webfont-19:before {
+  content: "z";
+}
+.edd-icons-payment-webfont-20:before {
+  content: "A";
+}
+.edd-icons-payment-webfont-21:before {
+  content: "B";
+}
+.edd-icons-payment-webfont-22:before {
+  content: "C";
+}
+.edd-icons-payment-webfont-23:before {
+  content: "D";
+}
+.edd-icons-payment-webfont-24:before {
+  content: "E";
+}
+.edd-icons-payment-webfont-25:before {
+  content: "F";
+}
+.edd-icons-payment-webfont-26:before {
+  content: "G";
+}
+.edd-icons-payment-webfont-27:before {
+  content: "H";
+}
+.edd-icons-payment-webfont-28:before {
+  content: "I";
+}
+.edd-icons-payment-webfont-29:before {
+  content: "J";
+}
+.edd-icons-payment-webfont-30:before {
+  content: "K";
+}
+.edd-icons-payment-webfont-31:before {
+  content: "L";
+}
+.edd-icons-payment-webfont-32:before {
+  content: "M";
+}
+.edd-icons-payment-webfont-33:before {
+  content: "N";
+}
+.edd-icons-edd-icons-4:before {
+  content: "O";
+}
